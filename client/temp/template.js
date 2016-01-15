@@ -1,0 +1,2 @@
+angular.module("agora.core").run(["$templateCache", function($templateCache) {$templateCache.put("app/test/home.html","<div>\n   This is {{home.name}} view\n</div>");
+$templateCache.put("app/test/view2.html","<div>\n   This is {{view2.name}} view\n</div>\n\n<md-input-container>\n    <label>Title</label>\n    <input ng-model=\"view2.title\">\n</md-input-container>");}]);

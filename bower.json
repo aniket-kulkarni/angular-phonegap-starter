@@ -1,0 +1,27 @@
+{
+  "name": "agora",
+  "description": "A book management app",
+  "main": "app.js",
+  "authors": [
+    "aniket-kulkarni <kulkarni.anik@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/aniket-kulkarni/angular-starter",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "angular": "~1.4.8",
+    "angular-material": "~1.0.1",
+    "angular-ui-router": "~0.2.15",
+    "angular-mocks": "~1.4.8"
+  }
+}
