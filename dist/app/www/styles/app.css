@@ -1,9 +1,0 @@
-body
-{
-    height: 100px;
-
-    -webkit-transform-origin: center;
-            transform-origin: center;
-
-    background: lightyellow;
-}
